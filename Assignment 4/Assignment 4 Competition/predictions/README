@@ -1,0 +1,8 @@
+1.csv - Generated from architecture 'final1' run for about 15 epochs
+2.csv - Generated from architecture 'final2' run for about 12 epochs
+3.csv, 5.csv - Two best results from architecture 'final3' run for about 20 epochs with training accuracy of 99.6
+4.csv - Generated from architecture 'final4'
+
+ensemble.py -> Takes all the predictions from the 4 different architectures, and does the majority voting for each test example
+
+ensemble.csv -> Final prediction submitted by running ensemble.py and then later submitted on kaggle giving an accuracy of 93.83% there.

@@ -1,0 +1,49 @@
+WHEN THEY WERE BINARIZED:
+
+BEST N-ESTIMATOR : 8
+BEST BOOTSTRAP : True
+BEST MAX FEATURES : log2
+TRAINING SET ACCURACY : 0.883185185185
+VALIDATION SET ACCURACY : 0.811
+TESTING SET ACCURACY : 0.816571428571
+
+BEST N-ESTIMATOR : 4
+BEST BOOTSTRAP : True
+BEST MAX FEATURES : 5
+TRAINING SET ACCURACY : 0.876222222222
+VALIDATION SET ACCURACY : 0.813
+TESTING SET ACCURACY : 0.810142857143
+
+BEST N-ESTIMATOR : 7
+BEST BOOTSTRAP : True
+BEST MAX FEATURES : None
+TRAINING SET ACCURACY : 0.882481481481
+VALIDATION SET ACCURACY : 0.809333333333
+TESTING SET ACCURACY : 0.807857142857
+
+WGHEN THEY WEREN'T BINARIZED:
+
+n_estimators : 19
+bootstrap : True
+max_features: log2
+Training Set Accuracy : 99.70%
+Validation Set Accuracy : 85.56%
+Testing Set Accuracy : 84.78%
+
+n_estimators : 28
+bootstrap : True
+max_features: None
+Training Set Accuracy : 99.78%
+Validation Set Accuracy : 85.3%
+Testing Set Accuracy : 84.77%
+
+n_estimators : 16
+bootstrap : True
+max_features: 8
+Training Set Accuracy : 99.48%
+Validation Set Accuracy : 84.43%
+Testing Set Accuracy : 84.73%
+
+
+
+
